@@ -13,7 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dieaikhlayel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dieaikhlayel&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Quickdraw](https://github.com/users/dieaikhlayel/achievements/quickdraw)
+![Pull Shark](https://github.com/users/dieaikhlayel/achievements/pull-shark)
+![YOLO](https://github.com/users/dieaikhlayel/achievements/yolo)
+![Pair Extraordinaire](https://github.com/users/dieaikhlayel/achievements/pair-extraordinaire)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
